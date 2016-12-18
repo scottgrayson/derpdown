@@ -1,7 +1,7 @@
 # derpdown
 vue js dropdown
 
-## usage:
+## Usage:
 use `slot="toggle"` and `slot="content"` inside the `<derpdown>` tags
 ```
 <derpdown :align_right=true>
@@ -15,7 +15,7 @@ use `slot="toggle"` and `slot="content"` inside the `<derpdown>` tags
 ```
 
 
-#### the html inside toggle and content slots can be anything
+#### Html inside toggle and content slots can be anything
 bulma css example:
 ```
 <derpdown :align_right=true>
