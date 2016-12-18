@@ -3,6 +3,8 @@ vue js dropdown component
 
 ![alt tag](https://media.giphy.com/media/l0MYvNHMfVhiQ5h8Q/giphy.gif)
 
+## Install
+copy pasta  
 
 ## Usage:
 use `slot="toggle"` and `slot="content"` inside the `<derpdown>` tags
