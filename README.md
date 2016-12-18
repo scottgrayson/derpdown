@@ -1,5 +1,5 @@
-# derpdown
-vue js dropdown
+# Derpdown
+vue js dropdown component
 
 ## Usage:
 use `slot="toggle"` and `slot="content"` inside the `<derpdown>` tags
